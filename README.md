@@ -1,8 +1,6 @@
 # 🧠 Python Job Market in Egypt – End-to-End Data Mining Project
 
 [![Kaggle](https://img.shields.io/badge/Kaggle-Dataset-20BEFF?logo=kaggle)](https://www.kaggle.com/datasets/akramehab/tanqeeb-egypt-jobs-dataset-web-scraping-csv)
-[![Python](https://img.shields.io/badge/Python-3.8+-3776AB?logo=python)](https://www.python.org/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 > **An end-to-end data pipeline**: Scraping → Cleaning → Database → Analysis → Visualization → Machine Learning.  
 > This project analyzes the **Python job market in Egypt** using data scraped from Wuzzuf and Tanqeeb.
