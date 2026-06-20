@@ -1,0 +1,7 @@
+pandas
+matplotlib
+seaborn
+requests
+beautifulsoup4
+lxml
+sqlite3
