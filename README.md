@@ -55,7 +55,7 @@ Python-Job-Market-in-Egypt/
 │   └── plot6_heatmap.png
 │
 ├── community_notebooks/           # Notebooks from the Kaggle community
-│   └── (coming soon)
+│   └── (Users on Kaggle downloaded the Tanqeeb data and contributed their codes.)
 │
 ├── .gitignore
 ├── LICENSE
